@@ -1,0 +1,19 @@
+package com.codecean.randomjavacodes;
+
+public class WebAddressValidator {
+	
+	 
+
+	class Tester{
+	    public void main (String[] args) {
+	        //code here
+	    	String webAddress = "http://www.infosys.com";
+	    	boolean check = isValidWebAddress(webAddress);
+	    	
+	    }
+
+		private boolean isValidWebAddress(String webAddress) {
+			// TODO Auto-generated method stub
+			return false;
+		}
+}

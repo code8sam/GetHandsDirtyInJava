@@ -1,0 +1,10 @@
+package com.codecean.randomjavacodes;
+
+public class WebAddressValidator {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
